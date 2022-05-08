@@ -27,7 +27,7 @@ then
     then
      echo "Preparing local manifest"
      mkdir -p .repo/local_manifests
-     cp ./treble_build_evolved/local_manifests_treble/manifest.xml .repo/local_manifests/miku-treble.xml
+     cp ./treble_build_evolved/local_manifests_treble/manifest.xml .repo/local_manifests/evolutionx-treble.xml
      echo ""
     fi 
 fi
